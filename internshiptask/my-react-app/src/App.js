@@ -1,13 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
-import { Hadesection } from './spradd/spradd';
-import { Mainhade } from './spradd2/spradanother';
+import {Hadesection} from './spradd/spradd';
 
 function App() {
   return (
     <>
-      <Hadesection />
-      <Mainhade />
+      <Hadesection/>
     </>
   );
 }
